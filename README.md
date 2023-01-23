@@ -1,4 +1,4 @@
-# Did NOT design it myself: Design and challenge is form Frontend Mentor, see below
+# Did NOT design it myself: Design and challenge is from *Frontend Mentor*, see below:
 # Frontend Mentor - NFT preview card component
 
 ![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
